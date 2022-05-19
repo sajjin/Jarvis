@@ -1,0 +1,25 @@
+# Jarvis application
+
+This application is a google assistant like app that I developed for my computer. It had many features like:
+
+1. google searches
+2. opening links in a websearch
+3. opening and closeing applications
+4. playing music
+5. playing videos
+6. tell the weather
+7. multiple commands in one sentence
+
+This current version is still in development, so it will run in the command line.
+
+# How to use
+
+downlaod all the dependencies and run the application.
+
+```shell
+pip install -r requirements.txt
+```
+
+```shell
+python jarvis.py
+```

@@ -24,7 +24,7 @@ from youtubesearchpython import SearchVideos
 from tkinter import *
 
 links = []
-os.chdir("C:\\Users\\sajji\\Desktop\\personal_projects\\Jarvis\\audio")
+os.chdir("")
 
 # engine = pyttsx3.init('sapi5')
 # voices = engine.getProperty('voices')
