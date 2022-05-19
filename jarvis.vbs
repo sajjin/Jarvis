@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\sajji\OneDrive\Desktop\personal_projects\Jarvis\jarvis.bat", 2, True
